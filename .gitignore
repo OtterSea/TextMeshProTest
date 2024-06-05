@@ -1,0 +1,10 @@
+/Logs
+/UserSettings
+/Library
+/Temp
+*.sln
+*.csproj
+/.idea
+/.vscode
+/UIElementsSchema
+/obj
